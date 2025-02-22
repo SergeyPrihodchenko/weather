@@ -9,5 +9,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "prettier": "^3.5.2"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "dedent-js": "^1.0.1"
+  }
 }
